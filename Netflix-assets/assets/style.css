@@ -1,0 +1,26 @@
+body {
+  background-color: #141414;
+}
+#netflix_logo {
+  width: 70px;
+}
+#profilo {
+  width: 40px;
+}
+#netflix_logo_profile {
+  width: 200px;
+}
+.profilo-img {
+  width: 150px;
+}
+.form-check-input {
+  background-color: transparent;
+  border: 1px solid #888;
+}
+.form-check-input:checked {
+  border-color: #fff;
+}
+.badge-custom {
+  top: 80%;
+  left: 5%;
+}
