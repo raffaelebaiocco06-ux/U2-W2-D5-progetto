@@ -7,6 +7,9 @@ body {
 #profilo {
   width: 40px;
 }
+#kids {
+  width: 40px;
+}
 #netflix_logo_profile {
   width: 200px;
 }
@@ -23,4 +26,11 @@ body {
 .badge-custom {
   top: 80%;
   left: 5%;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
